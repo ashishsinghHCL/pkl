@@ -1,0 +1,35 @@
+{
+    "teams": [
+         {
+          "id":"1",
+          "name":"Haryana Steeles"
+         },
+         {
+          "id":"2",
+          "name":"Bengaluru bulls"
+         },
+         {
+          "id":"3",
+          "name":"UP Yodha"
+         },
+         {
+          "id":"4",
+          "name":"Tamil Thalivas"
+         },
+         {
+          "id":"5",
+          "name":"Dabang Delhi"
+         },
+         {
+          "id":"6",
+          "name":"Puneri paltan"
+         },
+         {
+          "id":"7",
+          "name":"U Mumba"
+         }
+    ]
+    
+  
+  }
+  
